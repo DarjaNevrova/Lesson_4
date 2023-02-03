@@ -1,0 +1,272 @@
+A {
+    text-decoration: none;
+}
+
+.scroll_up {
+    background-color: white;
+    border: 0px;
+    width: 1905px;
+    position: fixed;
+    margin-top: -50px;
+    margin-left: -10px;
+}
+
+.icon_1 {
+    width: 74px;
+    height: 74px;
+    top: 6px;
+    padding-left: 400px;
+}
+
+.vk {
+    padding-left: 1000px;
+    width: 24px;
+    height: 13.72px;
+    top: 5.14px;
+}
+
+.youtube {
+    padding-left: 30px;
+    width: 21px;
+    height: 14.7px;
+    top: 5.14px;
+}
+
+.facebook {
+    padding-left: 30px;
+    width: 24px;
+    height: 13.72px;
+    top: 5.14px;
+}
+
+.instagram {
+    padding-left: 25px;
+    width: 24px;
+    height: 24px;
+    top: 30px;
+}
+
+.square {
+    background-color: #4FBFA5;
+    width: 1920px;
+    height: 690px;
+    margin-left: -8px;
+    margin-top: 20px;
+}
+
+.main_text_1 {
+    position: absolute;
+    width: 121.73px;
+    height: 28.33px;
+    left: 312px;
+    top: 119.31px;
+    margin: -35px;
+}
+
+.main_text_2 {
+    position: absolute;
+    width: 89.2px;
+    height: 28.33px;
+    left: 533.42px;
+    top: 119.31px;
+    margin: -35px;
+}
+
+.main_text_3 {
+    position: absolute;
+    width: 135.37px;
+    height: 28.33px;
+    left: 722.31px;
+    top: 119.31px;
+    margin: -35px;
+}
+
+.main_text_4 {
+    position: absolute;
+    width: 172.1px;
+    height: 28.33px;
+    left: 957.38px;
+    top: 119.31px;
+    margin: -35px;
+}
+
+.main_text_5 {
+    position: absolute;
+    width: 99.69px;
+    height: 28.33px;
+    left: 1229.17px;
+    top: 119.31px;
+    margin: -35px;
+}
+
+.main_menu {
+    position: absolute;
+    font-style: italic;
+    color: white;
+    font-size: 18px;
+    margin: -80px;
+    width: 1016.86px;
+    height: 28.33px;
+    left: 87px;
+    top: 119.31px;
+    padding-left: 10px;
+}
+
+.inner {
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    Width: 170px;
+    Height: 32px;
+    background-color: white;
+    font-style: italic;
+    color: black;
+    left: 1423px;
+    bottom: 770px;
+    margin: 28px;
+}
+
+.light {
+    color: white;
+    font-style: italic;
+    padding-top: 200px;
+    padding-left: 290px;
+    font-size: 48px;
+}
+
+.bottles {
+    margin-left: 875px;
+    margin-top: -270px;
+}
+
+.inner_2 {
+    color: white;
+    font-style: italic;
+    font-size: 14px;
+    padding-left: 290px;
+    width: 400px;
+}
+
+.inner_3 {
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    Width: 130px;
+    Height: 32px;
+    background-color: #00868A;
+    font-style: italic;
+    color: white;
+    left: 290px;
+    bottom: 350px;
+}
+
+.actual_offers {
+    font-style: italic;
+    color: #00868A;
+    text-align: center;
+}
+
+.small_square {
+    position: absolute;
+    width: 1296px;
+    height: 476px;
+    left: 312px;
+    top: 936px;
+}
+
+.square_blue_1 {
+    position: absolute;
+    width: 306px;
+    height: 344px;
+    left: 25px;
+    top: 168px;
+}
+
+.square_blue_2 {
+    position: absolute;
+    width: 306px;
+    height: 344px;
+    left: 352px;
+    top: 168px;
+}
+
+.square_blue_3 {
+    position: absolute;
+    width: 306px;
+    height: 344px;
+    left: 682px;
+    top: 168px;
+}
+
+.square_blue_4 {
+    position: absolute;
+    width: 306px;
+    height: 344px;
+    left: 1010px;
+    top: 168px;
+}
+
+.offer_background {
+    background-color: #00868A;
+    width: 306px;
+    height: 343px;
+    margin-top: -233px;
+}
+
+.offer_text {
+    color: white;
+    font-style: italic;
+    position: absolute;
+    width: 181px;
+    height: 64px;
+    margin-top: -90px;
+    padding-left: 20px;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 150%;
+}
+
+.button {
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    left: 215px;
+    top: 268px;
+    border: 2px solid white;
+}
+
+.arrow {
+    padding-left: 15px;
+    padding-top: 16px;
+}
+
+.vk_2 {
+    padding-left: 1480px;
+    width: 24px;
+    height: 13.72px;
+}
+
+.youtube_2 {
+    padding-left: 30px;
+    width: 24px;
+    height: 13.72px;
+}
+
+.facebook_2 {
+    padding-left: 30px;
+    width: 24px;
+    height: 13.72px;
+}
+
+.instagram_2 {
+    padding-left: 25px;
+    width: 24px;
+    height: 13.72px;
+}
+
+.socials {
+    padding-top: 800px;
+    padding-bottom: 35px;
+}
